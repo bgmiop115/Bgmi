@@ -7,9 +7,9 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ========== SETTINGS ==========
-TOKEN = "YAHAN_BOT_TOKEN_DAAL"
+TOKEN = "8538094058:AAEGHcVfXOB4ERkrGNsISm85Oz_qZH6Jibc"
 BINARY = "./bgmi"
-ADMIN_ID = 123456789                    # Tera Telegram ID (Owner)
+ADMIN_ID = 7518035096                    # Tera Telegram ID (Owner)
 USERS_FILE = "users.json"               # Allowed users list file
 # ==============================
 
